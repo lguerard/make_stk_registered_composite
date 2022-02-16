@@ -1,0 +1,1 @@
+# make_stk_registered_composite
